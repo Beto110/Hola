@@ -1,0 +1,6 @@
+print("ingresa dos numeros:")
+print("Dame el primer numero:")
+numero1 = int(input())
+print("Dame el segundo numero:")
+numero2 = int(input())
+print("La suma de sus cuadrados es:", (numero1 ** 2) + (numero2 ** 2))

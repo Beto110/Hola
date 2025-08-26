@@ -1,0 +1,6 @@
+print("Hola Buenos dias")
+print("Dame un numero:")
+numero1 = int(input())
+print("Dame otro nunmero:")
+numero2 = int(input())
+print(numero1 + numero2)
